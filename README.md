@@ -5,4 +5,4 @@ This website displays codeforces data analytics of a single user and compares da
 - Used **Material UI** for design and styling.
 - Used **chart.js** and **react-chartjs-2** for displaying different charts.
 
-[Website Link](https://codeforces-data-visualizer-tan.netlify.app/)
+
